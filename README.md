@@ -2,7 +2,7 @@
 
 ScreenShots:
 
-<img src="Screenshot (115).png" width="250px" height="250px" alt="game starts">
+<img src="Screenshot (115).png" width="500px" height="500px" alt="game starts">
 
-<img src="Screenshot (116).png" width="250px" height="250px" alt="game over">
+<img src="Screenshot (116).png" width="500px" height="500px" alt="game over">
 
